@@ -66,4 +66,11 @@ img {
     line-height: 40px;
 }
 
+button {
+    background-color: rgb(29, 203, 216) !Important;
+    border-color: white !Important;
+    color: white !Important;
+    height: 40px;
+}
+
 
