@@ -1,5 +1,7 @@
 * {
     box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
     
 }
 
@@ -52,10 +54,12 @@ display:block;
 text-align: center;
 font-family: 'Lobster', cursive;
 font-size: 26px;
-margin-top:200px;
+margin-top:206px;
+margin-bottom: auto;
 width: 100%;
 padding: 20px;
 color:white;
 background-color: rgb(169, 171, 173);
 }
+
 
