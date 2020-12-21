@@ -7,10 +7,10 @@
    display: block;
    padding:20px;
    width: 100%;
-   height: 50px;
+   height: 80px;
    margin-bottom: 150px; 
-   background-color: white;
-}
+   background-color:white; 
+   }
 
 .header h1 {
     float: left;
@@ -20,12 +20,13 @@
     padding:10px;
     margin-left: 20px;
     border: white ;
-    background-color: rgb(29, 203, 216);
+    background-color: rgb(29, 203, 216);    
 }
 
 .header nav {
     float: right;
-    
+    background-color: rgb(29, 203, 216); 
+        
 }
 
 .container{
@@ -36,7 +37,7 @@
 h2 {
     color: rgb(29, 203, 216);
     font-family: 'Abril Fatface', cursive;
-    font-size: 50px;
+    font-size: 50px;   
 }
 
 img {
@@ -46,3 +47,15 @@ img {
 .lorem {
     width: auto;
 }
+footer p {
+display:block;
+text-align: center;
+font-family: 'Lobster', cursive;
+font-size: 26px;
+margin-top:200px;
+width: 100%;
+padding: 20px;
+color:white;
+background-color: rgb(169, 171, 173);
+}
+
