@@ -5,7 +5,7 @@ The main goal of this project was to ensure that the web applications rendered w
 The Portfolio site includes 3 html pages: `index.html`, `portfolio.html` and `contact.html`, below you can find the relative paths of the pictures of the deployed/ funtional application in different screen sizes.
  
  `index.html`:
- - About me: Deployed       img<src="./assets/About Me- Deployed App.PNG">
+ - About me: Deployed       img<src="https://github.com/Lismey23/Responsive-Portfolio/blob/main/assets/About%20Me-%20Deployed%20App.PNG" height="42" width="42">
  - About me: 425 x 844      .assets\About me-425x844.PNG
  - About me: 768 x 844      .assets\About me-768x844.PNG
  - About me: 1024 x 844     .assets\About me 1024x844.PNG
