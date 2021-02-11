@@ -121,7 +121,15 @@ a {
 }
 
 .card {
-    background-color: black;
-    color: white;
+
+    text-align: center;
+
+}
+
+h5 {
+    font-weight: bold;
+}
+#portfolio {
+    margin-bottom: 20px;
 }
 
