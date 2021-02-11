@@ -115,4 +115,13 @@ a {
     font-size: 16px;
 }
 
-  
+.image-card {
+    width: 200px;
+    height: 200px;
+}
+
+.card {
+    background-color: black;
+    color: white;
+}
+
