@@ -130,4 +130,18 @@ h5 {
     font-weight: bold;
 }
 
+h7{
+font-weight: bold;
+}
 
+.contactInfo {
+    margin: 15px;
+    margin-bottom: 30px;
+    padding: 10px;
+    background-color:  rgb(29, 203, 216);
+    color:white;
+    border-style: solid;
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+
+}
