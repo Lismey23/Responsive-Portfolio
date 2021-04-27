@@ -145,3 +145,9 @@ font-weight: bold;
     font-family: 'Abril Fatface', cursive;
 
 }
+
+a {
+
+    color:black;
+    margin-right: 5px;
+}
