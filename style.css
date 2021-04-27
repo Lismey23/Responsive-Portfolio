@@ -137,6 +137,7 @@ font-weight: bold;
 .contactInfo {
     margin: 15px;
     margin-bottom: 30px;
+    width:100% ;
     padding: 10px;
     background-color:  rgb(29, 203, 216);
     color:white;
